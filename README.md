@@ -1,2 +1,2 @@
 # Banco-de-Dados-Jogo-RPG
-Criação de um banco de dados para um jogo indie RPG
+Modelagem e implementação de um banco de dados relacional para um jogo indie RPG
